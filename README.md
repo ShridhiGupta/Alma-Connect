@@ -352,22 +352,6 @@ You can run both servers simultaneously in separate terminals:
 
 ---
 
-## 🖼 Screenshots
-
-> *Add screenshots of your application here to showcase the UI.*
->
-> Suggested screenshots:
-> - Landing page
-> - Login / Registration page
-> - Home dashboard
-> - Chat interface
-> - Event listing
-> - Fundraising page
-> - AI Career Guidance
-> - Chatbot widget
-> - Admin Dashboard
-
----
 
 ## 🤝 Contributing
 
