@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/license-ISC-blue?style=for-the-badge" alt="License Badge"/>
 </p>
 
-# 🎓 Alma Connect — Alumni Association Platform
+#  Alma Connect — Alumni Association Platform
 
 **Alma Connect** is a full-stack alumni association platform designed to bridge the gap between **students**, **alumni**, and **institutions**. Built as part of the **Smart India Hackathon (SIH)**, it provides a centralized hub for networking, mentorship, event management, fundraising, and AI-powered career guidance.
 
@@ -27,7 +27,7 @@
 
 ---
 
-## ✨ Features
+##  Features
 
 ### 🔐 Authentication & Authorization
 - User registration with role selection (Student / Alumni / Admin)
@@ -191,8 +191,8 @@ Make sure you have the following installed on your system:
 
 ### 1. Clone the Repository
 
+After Cloning Run this command ..
 ```bash
-git clone https://github.com/<your-username>/alumni-sih.git
 cd alumni-sih/alumni-sih-master
 ```
 
@@ -240,7 +240,7 @@ Add the following variables:
 PORT=3000
 
 # Database
-MONGO_URI=mongodb://localhost:27017/alumni-sih-db
+MONGO_URI= MongoDB Connection String
 
 # Authentication
 JWT_SECRET=your_jwt_secret_here
@@ -253,7 +253,6 @@ RAZORPAY_KEY_ID=your_razorpay_key_id
 RAZORPAY_KEY_SECRET=your_razorpay_key_secret
 ```
 
-> **Note:** The Gemini API key for the chatbot is currently configured in `api/controllers/chatbot.controller.js`. For production, move it to the `.env` file.
 
 ---
 
@@ -393,15 +392,10 @@ Please make sure to:
 
 ---
 
-## 📄 License
-
-This project is licensed under the **ISC License**.
-
----
 
 ## 🙏 Acknowledgments
 
-- Built for **Smart India Hackathon (SIH)**
+- Built for **Smart India Hackathon (SIH) 2025**
 - Powered by [OpenAI](https://openai.com/) and [Google Gemini](https://deepmind.google/technologies/gemini/)
 - Payment processing by [Razorpay](https://razorpay.com/)
 - Real-time communication via [Socket.IO](https://socket.io/)
