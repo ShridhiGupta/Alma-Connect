@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/SIH-Smart_India_Hackathon-orange?style=for-the-badge" alt="SIH Badge"/>
-  <img src="https://img.shields.io/badge/status-active-success?style=for-the-badge" alt="Status Badge"/>
-  <img src="https://img.shields.io/badge/license-ISC-blue?style=for-the-badge" alt="License Badge"/>
-</p>
-
 #  Alma Connect — Alumni Association Platform
 
 **Alma Connect** is a full-stack alumni association platform designed to bridge the gap between **students**, **alumni**, and **institutions**. Built as part of the **Smart India Hackathon (SIH)**, it provides a centralized hub for networking, mentorship, event management, fundraising, and AI-powered career guidance.
