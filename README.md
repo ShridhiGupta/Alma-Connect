@@ -1,4 +1,4 @@
-#  Alma Connect — Alumni Association Platform
+# Alma Connect — Alumni Association Platform
 
 **Alma Connect** is a full-stack alumni association platform designed to bridge the gap between **students**, **alumni**, and **institutions**. Built as part of the **Smart India Hackathon (SIH)**, it provides a centralized hub for networking, mentorship, event management, fundraising, and AI-powered career guidance.
 
@@ -383,5 +383,6 @@ Please make sure to:
 <p align="center">
   Made with ❤️ by <strong>Team Alma Connect</strong>
 </p>
-#   S m a r t - A l u m n i - M a n a g e r  
+#   S m a r t - A l u m n i - M a n a g e r 
+ 
  
