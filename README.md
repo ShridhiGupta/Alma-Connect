@@ -1,1 +1,1 @@
-# Alma Connect — Alumni Association Platform
+# Alma Connect - Alumni Association Platform
