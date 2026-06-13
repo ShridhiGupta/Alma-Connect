@@ -111,4 +111,3 @@ Strong placement-ready project
 - 🧠 add system design diagram
 - 🚀 convert this into portfolio project card
 - 💼 write resume bullet points for this project
-```
