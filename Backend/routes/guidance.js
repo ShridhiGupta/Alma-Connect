@@ -7,5 +7,3 @@ const router = express.Router();
 router.post("/", authMiddleware, getGuidance);
 
 module.exports = router;
-
-

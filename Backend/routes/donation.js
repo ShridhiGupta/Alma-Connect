@@ -13,5 +13,3 @@ router.post("/:id/donate", authMiddleware, donate);
 router.post("/confirm", authMiddleware, confirmDonation);
 
 module.exports = router;
-
-
