@@ -38,7 +38,7 @@ AI + Payment Services (OpenAI, Gemini, Razorpay)
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 /api → Backend (Controllers, Routes, Models)
@@ -60,7 +60,7 @@ AI + Payment Services (OpenAI, Gemini, Razorpay)
 
 ---
 
-## ⚙️ Setup
+## Setup
 
 ```bash
 git clone <repo-url>
