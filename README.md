@@ -12,9 +12,9 @@ A full-stack alumni networking platform built with the **MERN stack** to connect
 - Event creation & participation
 - 🤖 AI career guidance (OpenAI + Gemini)
 - 💰 Fundraising & donations (Razorpay)
-- 🔔 Notifications system
+- Notifications system
 - 📄 Resume upload & parsing
-- 🛠 Admin dashboard
+- Admin dashboard
 
 ---
 
