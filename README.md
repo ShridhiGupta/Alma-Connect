@@ -10,7 +10,7 @@ A full-stack alumni networking platform built with the **MERN stack** to connect
 - Real-time chat (Socket.IO)
 - Video calling (WebRTC)
 - Event creation & participation
-- 🤖 AI career guidance (OpenAI + Gemini)
+- AI career guidance (OpenAI + Gemini)
 - Fundraising & donations (Razorpay)
 - Notifications system
 - Resume upload & parsing
@@ -49,7 +49,7 @@ AI + Payment Services (OpenAI, Gemini, Razorpay)
 
 ---
 
-## 🔐 Authentication
+## Authentication
 
 - JWT-based authentication
 - bcrypt password hashing
