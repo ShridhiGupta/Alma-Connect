@@ -11,9 +11,9 @@ A full-stack alumni networking platform built with the **MERN stack** to connect
 - Video calling (WebRTC)
 - Event creation & participation
 - 🤖 AI career guidance (OpenAI + Gemini)
-- 💰 Fundraising & donations (Razorpay)
+- Fundraising & donations (Razorpay)
 - Notifications system
-- 📄 Resume upload & parsing
+- Resume upload & parsing
 - Admin dashboard
 
 ---
