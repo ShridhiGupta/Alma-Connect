@@ -18,7 +18,7 @@ A full-stack alumni networking platform built with the **MERN stack** to connect
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 **Frontend:** React, Tailwind CSS, Bootstrap, Axios, Socket.IO Client  
 **Backend:** Node.js, Express.js, MongoDB, Mongoose, JWT  
@@ -27,7 +27,7 @@ A full-stack alumni networking platform built with the **MERN stack** to connect
 
 ---
 
-## 🏗 Architecture
+## Architecture
 ```
 React Frontend → Express Backend → MongoDB
 ↕
