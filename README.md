@@ -8,8 +8,8 @@ A full-stack alumni networking platform built with the **MERN stack** to connect
 
 - Role-based system (Student / Alumni / Admin)
 - Real-time chat (Socket.IO)
-- 📹 Video calling (WebRTC)
-- 📅 Event creation & participation
+- Video calling (WebRTC)
+- Event creation & participation
 - 🤖 AI career guidance (OpenAI + Gemini)
 - 💰 Fundraising & donations (Razorpay)
 - 🔔 Notifications system
