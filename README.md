@@ -108,6 +108,6 @@ Strong placement-ready project
 
 ## If you want next upgrade, I can also:
 - make it “FAANG-level README” (more impactful wording)
-- 🧠 add system design diagram
-- 🚀 convert this into portfolio project card
-- 💼 write resume bullet points for this project
+- add system design diagram
+- convert this into portfolio project card
+- write resume bullet points for this project
