@@ -78,7 +78,7 @@ npm start
 
 ```
 
-## 🔑 Environment Variables
+## Environment Variables
 ```
 MONGO_URI=your_mongo_uri
 JWT_SECRET=your_secret
@@ -87,7 +87,7 @@ GEMINI_API_KEY=your_key
 RAZORPAY_KEY=your_key
 ```
 
-## 📈 Future Scope
+## Future Scope
 ```
 Microservices architecture
 Redis caching
