@@ -107,4 +107,3 @@ Strong placement-ready project
 ```
 
 ## If you want next upgrade, I can also:
-- make it “FAANG-level README” (more impactful wording)
