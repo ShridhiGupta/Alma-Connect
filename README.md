@@ -104,6 +104,3 @@ Full-stack + real-time features
 AI integration (industry relevant)
 Scalable architecture design
 Strong placement-ready project
-```
-
-## If you want next upgrade, I can also:
